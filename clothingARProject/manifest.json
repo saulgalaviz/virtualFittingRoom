@@ -1,6 +1,6 @@
 {
 	"name": "cs480 WebCam Application",
-	"version": "4.20",
+	"version": "2",
 	"manifest_version": 2,
 	"description": "Simple extension that asks for user permission to open web cam",
 	"browser_action": {
