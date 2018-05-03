@@ -17,24 +17,14 @@ Platform assembly: E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data
 Loading E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
+- Completed reload, in  0.034 seconds
 Platform assembly: E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\GitHub Repos\clothingARProject\Basic AR Project\build_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1526)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1755)
-
-UnloadTime: 1.781931 ms
+UnloadTime: 1.579816 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3c3c -> priority: 1 
-  Thread -> id: 3f78 -> priority: 1 
+  Thread -> id: 20d4 -> priority: 1 
+  Thread -> id: 21dc -> priority: 1 
