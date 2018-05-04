@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic AR Project", "Basic AR Project.csproj", "{44831582-66D2-9A1D-5DB7-F2026F9103F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic AR Project", "Assembly-CSharp.csproj", "{FD2E20A0-C015-2015-DA7F-2869B2152DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic AR Project", "Assembly-CSharp-Editor.csproj", "{9EB89CAD-2825-9BC0-446F-395A1AE455C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{44831582-66D2-9A1D-5DB7-F2026F9103F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44831582-66D2-9A1D-5DB7-F2026F9103F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44831582-66D2-9A1D-5DB7-F2026F9103F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44831582-66D2-9A1D-5DB7-F2026F9103F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2E20A0-C015-2015-DA7F-2869B2152DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2E20A0-C015-2015-DA7F-2869B2152DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2E20A0-C015-2015-DA7F-2869B2152DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2E20A0-C015-2015-DA7F-2869B2152DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB89CAD-2825-9BC0-446F-395A1AE455C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB89CAD-2825-9BC0-446F-395A1AE455C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB89CAD-2825-9BC0-446F-395A1AE455C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB89CAD-2825-9BC0-446F-395A1AE455C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
