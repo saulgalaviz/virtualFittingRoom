@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Body Tracking Project", "Assembly-CSharp.csproj", "{0D813E2C-0C14-8188-3B3E-1DE053691B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Body Tracking Project", "Assembly-CSharp-Editor.csproj", "{91A28B64-6DC0-A4F8-288A-2BB50837B44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D813E2C-0C14-8188-3B3E-1DE053691B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D813E2C-0C14-8188-3B3E-1DE053691B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D813E2C-0C14-8188-3B3E-1DE053691B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D813E2C-0C14-8188-3B3E-1DE053691B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A28B64-6DC0-A4F8-288A-2BB50837B44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A28B64-6DC0-A4F8-288A-2BB50837B44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A28B64-6DC0-A4F8-288A-2BB50837B44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A28B64-6DC0-A4F8-288A-2BB50837B44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5239a06ade49ac649bb62de1bee6769d, type: 3}
+  m_Name: PlatformChangerData
+  m_EditorClassIdentifier: 
+  platformSets:
+  - name: Default
+    platformName: 0
+    VRSupported: 0
+    nameProduct: Nuitrack Sample
+    bundleID: com.TriDiVi.NuitrackSample
+    manifest: {fileID: 4900000, guid: 1d49116146c45fc43815f62f007cc660, type: 3}
+    AntiAliasing: 0
+    vrSDK: []
+  - name: GearVR
+    platformName: 1
+    VRSupported: 1
+    nameProduct: Nuitrack Sample GearVR
+    bundleID: com.TriDiVi.NuitrackSampleGearVR
+    manifest: {fileID: 4900000, guid: a6010e90091e8c647a7a00cb06f00003, type: 3}
+    AntiAliasing: 1
+    vrSDK:
+    - Oculus
+  - name: IOS
+    platformName: 2
+    VRSupported: 0
+    nameProduct: Nuitrack Sample IOS
+    bundleID: com.TriDiVi.NuitrackSampleIOS
+    manifest: {fileID: 0}
+    AntiAliasing: 1
+    vrSDK: []
+  currentPlatform: 0
