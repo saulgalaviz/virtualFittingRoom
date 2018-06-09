@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/0-Splash.unity
+    guid: c821e2eca6ff325469f8a758a0d7e93e
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/1-About.unity
+    guid: d2d74d6017641cd418428ab58a50cdcd
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/2-Loading.unity
+    guid: 03078236e6712c24a9dd679dfe864861
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/3-AR-VR.unity
+    guid: 6367b395aa950074a9acdaf7e585662a
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: c8bc6ff0072006845b8a11f73b2d9e48
+  - enabled: 1
+    path: Assets/Scenes/FilaScene.unity
+    guid: 025128491d54ead4f8b757b13e25264d
+  - enabled: 1
+    path: Assets/Scenes/GotitScene.unity
+    guid: 1ee23598e804a17438ccba91cdf257fb
+  - enabled: 1
+    path: Assets/Scenes/ShibaScene.unity
+    guid: 957b562a2e940864f8a4744ecba7939a
+  - enabled: 1
+    path: Assets/Scenes/GithubScene.unity
+    guid: 3f3e880bcf5186b429d3411834a6c5c5
+  - enabled: 1
+    path: Assets/Scenes/BugScene.unity
+    guid: 616325f615f099746ae6a6be648c90fb
+  m_configObjects: {}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EVGA_Shirt" size="0.292100 0.164306" />
+    <ImageTarget name="EVGA_Back" size="0.292100 0.519289" />
+    <ImageTarget name="Back_Side" size="0.298450 0.530578" />
+    <ImageTarget name="Front_Side" size="0.304800 0.541867" />
+  </Tracking>
+</QCARConfig>

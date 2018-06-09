@@ -121,6 +121,7 @@
     <None Include="Assets\SamplesResources\SceneAssets\VirtualButtons\Shaders\Gradient.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Virtual_Fitting_Room.xml" />
     <None Include="Assets\SamplesResources\SceneAssets\CloudReco\Shaders\CR_Custom_TransparentUnlit.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\Shirt.xml" />
