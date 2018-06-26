@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="hackpoly_scaled" size="0.076200 0.076200" />
-    <ImageTarget name="shirt_scaled" size="0.790575 0.930435" />
-  </Tracking>
-</QCARConfig>

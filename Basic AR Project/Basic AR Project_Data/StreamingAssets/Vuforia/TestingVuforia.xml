@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="phone_scaled" size="0.144780 0.282110" />
-    <ImageTarget name="card_scaled" size="0.083820 0.133185" />
-    <ImageTarget name="panda_scaled" size="0.152400 0.366609" />
-  </Tracking>
-</QCARConfig>
