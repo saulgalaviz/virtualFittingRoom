@@ -8,7 +8,7 @@ successfully display the Augmented Reality clothing portion of the application, 
 
 # Demo
 # First screen when application is opened.
-![alt text](https://i.imgur.com/v1rvjtP.png)
+![alt text](https://i.imgur.com/m5NU1mA.png)
 
 # Holding the QR code over your body will display an augmented reality shirt!
 ![alt text](https://i.imgur.com/pZG0y8z.png)
