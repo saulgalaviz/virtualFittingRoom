@@ -7,4 +7,9 @@ Designed and developed the main software using Unity and tactfully incorporating
 successfully display the Augmented Reality clothing portion of the application, over the user
 
 # Demo
-TO BE ADDED SOON
+# First screen when application is opened.
+![alt text](https://i.imgur.com/v1rvjtP.png)
+
+# Holding the QR code over your body will display an augmented reality shirt!
+![alt text](https://i.imgur.com/pZG0y8z.png)
+
