@@ -7,7 +7,9 @@ Designed and developed the main software using Unity and tactfully incorporating
 successfully display the Augmented Reality clothing portion of the application, over the user
 
 Concepts: Agile SWDLC, Augmented Reality
+
 Tools: Unity, Vuforia API
+
 Languages: C#
 
 # Demo
