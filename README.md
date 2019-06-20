@@ -1,4 +1,4 @@
-# virtualFittingRoom
+# Virtual Fitting Room
 
 Collaboration with four others, implementing the Agile Software Development Life-Cycle Methodology to
 develop an Augmented Reality, Android application for fitting clothes over the user in real time.
@@ -8,7 +8,7 @@ successfully display the Augmented Reality clothing portion of the application, 
 
 Concepts: Agile SWDLC, Augmented Reality
 
-Tools: Unity, Vuforia API, GitHub
+Tools: Unity3D, Vuforia API, GitHub
 
 Languages: C#
 
