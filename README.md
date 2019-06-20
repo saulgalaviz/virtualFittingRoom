@@ -8,7 +8,7 @@ successfully display the Augmented Reality clothing portion of the application, 
 
 Concepts: Agile SWDLC, Augmented Reality
 
-Tools: Unity, Vuforia API
+Tools: Unity, Vuforia API, GitHub
 
 Languages: C#
 
