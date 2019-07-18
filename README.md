@@ -6,6 +6,8 @@ develop an Augmented Reality, Android application for fitting clothes over the u
 Designed and developed the main software using Unity and tactfully incorporating the Vuforia software development kit to
 successfully display the Augmented Reality clothing portion of the application, over the user
 
+Placed top three in class competition for our Software Engineering course out of over 12 projects.
+
 Concepts: Agile SWDLC, Augmented Reality
 
 Tools: Unity3D, Vuforia SDK, GitHub
