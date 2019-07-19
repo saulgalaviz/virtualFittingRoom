@@ -1,12 +1,10 @@
 # Virtual Fitting Room
 
-Collaboration with four others, implementing the Agile Software Development Life-Cycle Methodology to
-develop an Augmented Reality, Android application for fitting clothes over the user in real time.
-
-Designed and developed the main software using Unity and tactfully incorporating the Vuforia software development kit to
-successfully display the Augmented Reality clothing portion of the application, over the user
-
-Placed top three in class competition for our Software Engineering course out of over 12 projects. 
+Collaboration with one other Software Engineer, a Business Analyst, a Project Manager, and a Quality Assurant to develop an Augment Reality app for fitting clothes over the user in real time.  
+  
+Designed and implemented over the course of five bi-weekly sprints implementing the Agile Software Development Lifecycle. Worked as the main Augmented Reality Software Engineer.  
+ 
+Won top three in a competition from over twelve Augmented Reality applications.
   
 -----------------------------------------------------------------------------------------------  
 
